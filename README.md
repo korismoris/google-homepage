@@ -1,0 +1,1 @@
+A project about replecating a website using developer tools in Chrome/Firefox. In this case we shall recreate the www.google.com homepage. 
